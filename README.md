@@ -4,4 +4,4 @@ My first repository
 **Breaking Bad**
 - Genre: Crime, Drama, Thriller
 - Lead Actor: Bryan Cranston
-- Fun Fact: It has own 16 Primetime Emmt Awards!
+- Fun Fact: It has own 16 Primetime Emmy Awards!
